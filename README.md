@@ -1,4 +1,6 @@
 # VTuber Avatar with Pose & Hand Tracking
+Demo vid --> https://drive.google.com/file/d/1gp0y7C5tI0xeemwtPUjhSUBF789dxt63/view?usp=drive_link
+
 
 Aplikasi real-time VTuber avatar yang mendeteksi pose tubuh dan tangan user, kemudian render character yang mengikuti gerakan.
 
@@ -270,3 +272,4 @@ python main.py
 - **Clear separation of concerns** - tiap file punya job spesifik
 - **Easy to test** - fungsi-fungsi bisa di-test separate
 - **Easy to modify** - tau mau ubah apa, edit file mana
+
